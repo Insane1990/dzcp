@@ -403,7 +403,7 @@ td.navLregContent,td.navTopdlContent,td.navTmpswitchContent,td.navPagerankConten
 div.navGameServer,
 div#navTeamspeakContent {
   position: relative;
-  width: 154px;
+  width: 170px;
   overflow: auto;
   overflow-x: auto; overflow-y: hidden;
 }
@@ -411,11 +411,11 @@ div#navTeamspeakContent {
 div.navGameServer { width: 160px }
 
 td.navTeamspeakRight {
-  width: 11px;
+  width: 5px;
 }
 
 td.navTopdlRight {
-  width: 11px;
+  width: 4px;
 }
 
 td.navTopdlHits {
